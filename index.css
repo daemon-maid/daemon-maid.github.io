@@ -1,0 +1,25 @@
+#pfp {
+    border-radius: 55%;
+    display: block;
+    margin:auto;
+    margin-top: 30px;
+    width: 20%;
+}
+
+body {
+    background-color: #191919;   
+    text-align: center;
+}
+
+body > p {
+
+    color: c30400;
+    font-size:250%;
+    font-style:italic;
+    font-weight: 700;
+}
+
+a > img {
+    margin:2em;
+    height: 10%;   
+}
